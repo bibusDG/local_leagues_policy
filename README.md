@@ -80,6 +80,18 @@ If you have any questions regarding privacy while using the Application, or have
 
 
 
+Subscriptions
+
+This app is totally free, but if you would like to extend app possibilities and get access to your match statistics, you can choose one of the subscriptions:
+
+- monthly subscription cost 1.99$/month auto-renewable
+  
+- annual subscription cost 19.99$/year auto-renewable
+  
+This is an auto-renewing subscription. Your subscription will automatically renew unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period. 
+
+Current subscription my not be cancelled during the active subscription preiod, however you can manage your subscription and/or turn off auto-renewal by visiting App Store settings.
+
 
 
 
